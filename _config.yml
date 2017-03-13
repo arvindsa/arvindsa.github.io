@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: Arvind S.A.
-profile_img: assets/images/arvind.jpg
+profile_img: /assets/images/arvind.jpg
 profile: 
 social:
   facebook: http://www.facebook.com/arvindsa
